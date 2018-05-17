@@ -1,11 +1,8 @@
-# Composer template for Drupal projects
+# CSIT314 Rental Project Base
 
-This project template provides a starter kit for managing your site
+This project template provides an installation base for installing the CSIT314 Rental Project
 dependencies with [Composer](https://getcomposer.org/).
 
-If you want to know how to use it as replacement for
-[Drush Make](https://github.com/drush-ops/drush/blob/8.x/docs/make.md) visit
-the [Documentation on drupal.org](https://www.drupal.org/node/2471553).
 
 ## Usage
 
