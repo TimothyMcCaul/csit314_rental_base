@@ -1,12 +1,24 @@
 {
-    "name": "drupal-composer/drupal-project",
-    "description": "Project template for Drupal 8 projects with composer",
+    "name": "TimothyMcCaul/csit314_rental_base",
+    "description": "CSIT314 group project",
     "type": "project",
     "license": "GPL-2.0-or-later",
     "authors": [
         {
-            "name": "",
-            "role": ""
+            "name": "Maxwell Lill",
+            "role": "Backend"
+        },
+        {
+            "name": "Tahlya Maling",
+            "role": "UX"
+        },
+        {
+            "name": "Timothy McCaul",
+            "role": "Design"
+        },
+        {
+            "name": "Jack Wallace",
+            "role": "Frontend"
         }
     ],
     "repositories": [
