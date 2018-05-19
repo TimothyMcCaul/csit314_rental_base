@@ -25,6 +25,19 @@
         {
             "type": "composer",
             "url": "https://packages.drupal.org/8"
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "TimothyMcCaul/csit314_rental_install_profile",
+                "version": "8.0.0",
+                "type": "drupal-profile",
+                "source": {
+                    "url": "https://github.com/TimothyMcCaul/csit314_rental_install_profile.git",
+                    "type": "git",
+                    "reference": "master"
+                }
+            }
         }
     ],
     "require": {
