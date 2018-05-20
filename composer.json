@@ -54,7 +54,9 @@
         "drupal/bee": "1.0.0-beta2",
         "drupal/private_message": "^1.0",
         "drupal/facets": "1.0.0-beta2",
-        "drupal/search_api": "^1.8"
+        "drupal/search_api": "^1.8",
+        "drupal/token": "^1.1",
+        "drupal/pathauto": "^1.2"
     },
     "require-dev": {
         "webflo/drupal-core-require-dev": "~8.5.3"
