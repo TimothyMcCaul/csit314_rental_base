@@ -56,7 +56,8 @@
         "drupal/facets": "1.0.0-beta2",
         "drupal/search_api": "^1.8",
         "drupal/token": "^1.1",
-        "drupal/pathauto": "^1.2"
+        "drupal/pathauto": "^1.2",
+        "drupal/used_cars": "^1.0"
     },
     "require-dev": {
         "webflo/drupal-core-require-dev": "~8.5.3"
